@@ -1,0 +1,6 @@
+.ordinary {
+  text-align: justify; /* Выравнивание по ширине */
+  font-size: 24pt;
+  color: green;
+  font-family: Times;
+}

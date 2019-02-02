@@ -1,0 +1,12 @@
+#P1 {
+  text-align: justify; /* Выравнивание по ширине */
+  font-size: 5pt;
+  color: red;
+  font-family: Arial;
+}
+#P2 {
+  text-align: justify; /* Выравнивание по ширине */
+  font-size: 30pt;
+  color: green;
+  font-family: Times;
+}

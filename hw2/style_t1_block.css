@@ -1,0 +1,64 @@
+#block DIV{
+	margin: 0 3px 12px 0;
+	float: left;	
+}
+#block1_1 {
+    
+    background: red; /* Цвет фона */
+    width: 49.775%; /* Ширина слоя */
+    height: 54px; /*Высота первого блока */
+   }
+#block1_2 {
+    
+    background: red; /* Цвет фона */
+    width: 49.775%; /* Ширина слоя */
+    height: 54px; /*Высота первого блока */
+   }
+#block2 {
+    
+    background: yellow; /* Цвет фона */
+    width: 100%; /* Ширина слоя */
+    height: 265px; /*Высота первого блока */
+   }
+#block3_1 {
+    
+    background: green; /* Цвет фона */
+    width: 33.1%; /* Ширина слоя */
+    height: 152px; /*Высота первого блока */
+   }
+#block3_2 {
+    
+    background: green; /* Цвет фона */
+    width: 33.1%; /* Ширина слоя */
+    height: 152px; /*Высота первого блока */
+   }
+#block3_3 {
+    
+    background: green; /* Цвет фона */
+    width: 33.1%; /* Ширина слоя */
+    height: 152px; /*Высота первого блока */
+   }
+#block4_1 {
+    
+    background: orange; /* Цвет фона */
+    width: 24.775%; /* Ширина слоя */
+    height: 106px; /*Высота первого блока */
+   }
+#block4_2 {
+    
+    background: orange; /* Цвет фона */
+    width: 24.775%; /* Ширина слоя */
+    height: 106px; /*Высота первого блока */
+   }
+#block4_3 {
+    
+    background: orange; /* Цвет фона */
+    width: 24.775%; /* Ширина слоя */
+    height: 106px; /*Высота первого блока */
+   }
+#block4_4 {
+    
+    background: orange; /* Цвет фона */
+    width: 24.775%; /* Ширина слоя */
+    height: 106px; /*Высота первого блока */
+   }

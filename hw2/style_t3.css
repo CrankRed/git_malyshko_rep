@@ -1,0 +1,32 @@
+#block DIV{
+	float: left;
+}
+#header{
+	width: 90%;
+	height: 15%;
+	margin: 0 5% 0;
+	border-radius: 0 0 10px 10px;
+	background: red; /* Цвет фона */
+	text-align: center;
+}
+#menu{
+	position: fixed;
+	right: 0;
+	width: 10%;
+	height: 600px;
+	background: rgba(0, 170, 238, 0.5);
+	overflow: auto;
+}
+#content{
+	width: 90%;
+	overflow: auto;
+	text-align: justify;
+}
+#footer{
+	width: 90%;
+	height: 15%;
+	margin: 0 5% 0;
+	border-radius: 10px 10px 0 0;
+	background: green; /* Цвет фона */
+	text-align: center;
+}

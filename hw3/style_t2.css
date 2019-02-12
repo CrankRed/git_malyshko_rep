@@ -1,0 +1,86 @@
+@media all {
+	.flstart{
+		display: flex;
+		justify-content: space-between;
+	}
+	.flstart > div {
+		margin-bottom: 15px;
+	}
+	.flend{
+		display: flex;
+		justify-content: space-between;
+	}
+	.first {
+		width: 49.5%;
+		height: 5vw;
+		background-color: red;
+	}
+	.second {
+		width: 49.5%;
+		height: 5vw;
+		background-color: orange;
+	}
+	.third {
+		width:100%;
+		height: 28vw;
+		background-color: green;
+		margin-bottom: 10px;
+	}
+	.fourth{
+		width: 33%;
+		height: 10vw;
+		background-color: brown;
+	}
+	.fifth{
+		width: 33%;
+		height: 10vw;
+		background-color: blue;
+	}
+	.sixth{
+		width: 33%;
+		height: 10vw;
+		background-color: purple;
+	}
+
+}
+@media (max-width: 375px) {
+	.container {
+		display: flex;
+		flex-direction: column;
+	}
+	.first {
+		width: 100%;
+		height: 334px;
+		background-color: red;
+	}
+	.second {
+		width: 100%;
+		height: 5%;
+		background-color: orange;
+		display: none;
+	}
+	.third {
+		width:100%;
+		height: 167px;
+		background-color: green;
+		margin-bottom: 10px;
+	}
+	.fourth{
+		width: 100%;
+		height: 10%;
+		background-color: brown;
+		display: none;
+	}
+	.fifth{
+		width: 100%;
+		height: 10%;
+		background-color: blue;
+		display: none;
+	}
+	.sixth{
+		width: 100%;
+		height: 167px;
+		background-color: purple;
+	}
+
+}

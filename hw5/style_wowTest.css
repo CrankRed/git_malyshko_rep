@@ -1,0 +1,84 @@
+.menu{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	font-family: serif;
+	font-size: large;
+	text-align: center;
+	background-color: silver;
+	margin-bottom: 20px;
+}
+.menu:hover{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	font-family: serif;
+	font-size: large;
+	text-align: center;
+	background-color: brown;
+	opacity: 0.5;
+	margin-bottom: 20px;
+}
+.menu > .menuText{
+	width: 100%;
+	height: 100px;
+	align-self: center;
+}
+.content{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	font-family: serif;
+	font-size: large;
+	text-align: center;
+}
+.blockLevel_1_1, .blockLevel_1_2, .blockLevel_1_3{
+	width: 33.2%;
+	height: 300px;
+	background-color: red;
+	margin-bottom: 20px;
+}
+.blockLevel_2_1{
+	width: 100%;
+	height: 300px;
+	background-color: orange;
+	margin-bottom: 20px;
+}
+.blockLevel_3_1, .blockLevel_3_2, .blockLevel_3_3{
+	width: 33.25%;
+	height: 300px;
+	background-color: yellow;
+	margin-bottom: 20px;
+}
+.blockLevel_4_1, .blockLevel_4_2{
+	width: 49.75%;
+	height: 300px;
+	background-color: green;
+	margin-bottom: 20px;
+}
+.blockLevel_5_1, .blockLevel_5_2, .blockLevel_5_3{
+	width: 33.25%;
+	height: 300px;
+	background-color: blue;
+	margin-bottom: 20px;
+}
+.blockLevel_6_1, .blockLevel_6_2, .blockLevel_6_3{
+	width: 33.25%;
+	height: 300px;
+	background-color: navy;
+	margin-bottom: 20px;
+}
+.blockLevel_7_1{
+	width: 100%;
+	height: 300px;
+	background-color: violet;
+	margin-bottom: 20px;
+}
+.blockLevel_8_1, .blockLevel_8_2, .blockLevel_8_3, .blockLevel_8_4{
+	width: 24.75%;
+	height: 300px;
+	background-color: black;
+	margin-bottom: 20px;
+}
